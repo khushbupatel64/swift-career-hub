@@ -21,3 +21,7 @@ Import this repository in Vercel and deploy.
 - Add About, Contact, Privacy Policy, Terms, and Disclaimer pages.
 - Submit sitemap to Google Search Console.
 - Avoid copied or auto-generated low-quality content.
+
+
+## Deployment fix
+This project pins Next.js and Tailwind CSS versions and includes `@/*` path aliases for Vercel builds.
